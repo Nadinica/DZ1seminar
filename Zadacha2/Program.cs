@@ -3,10 +3,10 @@
 //a = 2 b = 10 -> max = 10
 //a = -9 b = -3 -> max = -3
 
-double a = 2;
-double b = 10;
+double a = 103.8;
+double b = 103.5;
 double max = a;
-double a1 = -9;
+double a1 = -1;
 double b1 = -3;
 double max1 = a1;
 if (b > max) max = b;
