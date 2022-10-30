@@ -339,10 +339,3 @@ ASALocalRun/
 # BeatPulse healthcheck temp database
 healthchecksdb
 
-bin/Debug/net6.0/Zadacha4.dll
-bin/Debug/net6.0/Zadacha4.pdb
-obj/Debug/net6.0/Zadacha4.dll
-obj/Debug/net6.0/Zadacha4.pdb
-obj
-obj/Debug/net6.0/Zadacha4.GeneratedMSBuildEditorConfig.editorconfig
-obj/Debug/net6.0/Zadacha4.assets.cache
